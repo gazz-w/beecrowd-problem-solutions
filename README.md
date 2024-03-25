@@ -3,7 +3,6 @@ Com o intuito de aprimorar minhas **Habilidades** de **resolução de problemas*
 
 ## Problemas resolvidos :rocket: 
 
-PROBLEMA	NOME DO PROBLEMA	
 - 1151 - Fibonacci Fácil
 - 1009 - Salário com Bônus	
 - 1008 - Salário	
