@@ -3,6 +3,7 @@ Com o intuito de aprimorar minhas **Habilidades** de **resolução de problemas*
 
 ## Problemas resolvidos :rocket: 
 
+- 1221 - [Primo Rápido](https://judge.beecrowd.com/pt/problems/view/1221)
 - 1170 - [Blobs](https://judge.beecrowd.com/pt/problems/view/1170)
 - 1161 - [Soma de fatoriais](https://judge.beecrowd.com/pt/problems/view/1161)
 - 1151 - [Fibonacci Fácil](https://judge.beecrowd.com/pt/problems/view/1151)
