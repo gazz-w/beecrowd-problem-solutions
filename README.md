@@ -14,5 +14,3 @@ Com o intuito de aprimorar minhas **Habilidades** de **resolução de problemas*
 - 1004 - Produto Simples	
 - 1003 - Soma Simples	
 - 1002 - Área do Círculo	
-- 1001 - Extremamente Básico	
-- 1000 - Hello World!	
