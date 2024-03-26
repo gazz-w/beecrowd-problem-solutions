@@ -3,6 +3,8 @@ Com o intuito de aprimorar minhas **Habilidades** de **resolução de problemas*
 
 ## Problemas resolvidos :rocket: 
 
+- 1170 - Blobs
+- 1161 - Soma de fatoriais
 - 1151 - Fibonacci Fácil
 - 1009 - Salário com Bônus	
 - 1008 - Salário	
