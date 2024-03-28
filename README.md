@@ -3,6 +3,7 @@ Com o intuito de aprimorar minhas **Habilidades** de **resolução de problemas*
 
 ## Problemas resolvidos :rocket: 
 
+- 1310 - [lucro(paradigma de kadane)](https://judge.beecrowd.com/pt/problems/view/1310)
 - 1221 - [Primo Rápido](https://judge.beecrowd.com/pt/problems/view/1221)
 - 1170 - [Blobs](https://judge.beecrowd.com/pt/problems/view/1170)
 - 1161 - [Soma de fatoriais](https://judge.beecrowd.com/pt/problems/view/1161)
