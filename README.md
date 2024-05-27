@@ -8,6 +8,7 @@ Com o intuito de aprimorar minhas **Habilidades** de **resolução de problemas*
 - 1170 - [Blobs](https://judge.beecrowd.com/pt/problems/view/1170)
 - 1161 - [Soma de fatoriais](https://judge.beecrowd.com/pt/problems/view/1161)
 - 1151 - [Fibonacci Fácil](https://judge.beecrowd.com/pt/problems/view/1151)
+- 1069 - [Diamantes e Areia](https://judge.beecrowd.com/pt/problems/view/1069)
 - 1009 - [Salário com Bônus](https://judge.beecrowd.com/pt/problems/view/1009)	
 - 1008 - [Salário](https://judge.beecrowd.com/pt/problems/view/1008)	
 - 1007 - [Diferença](https://judge.beecrowd.com/pt/problems/view/1007)
