@@ -2,7 +2,7 @@
 Com o intuito de aprimorar minhas **Habilidades** de **resolução de problemas** codifiquei vários exercícios da plataforma [beecrowd](https://judge.beecrowd.com/) em python.
 
 ## Problemas resolvidos :rocket: 
-
+- 1943_top_n - [Top n](https://judge.beecrowd.com/pt/problems/view/1943)
 - 1310 - [lucro(paradigma de kadane)](https://judge.beecrowd.com/pt/problems/view/1310)
 - 1221 - [Primo Rápido](https://judge.beecrowd.com/pt/problems/view/1221)
 - 1170 - [Blobs](https://judge.beecrowd.com/pt/problems/view/1170)
